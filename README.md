@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aliance-hub
+- 👋 Hi, I’m @Aliance
 - 👀 I’m interested in Game Development, Animations and Embedded Systems
 - 🌱 I’m currently learning Software Engineering in Veritas University
 - 💞️ I’m looking am looking for a partner that is also intrested in the fields am doing
